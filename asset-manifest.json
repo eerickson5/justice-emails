@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/justice-emails/static/css/main.5f361e03.chunk.css",
+    "main.js": "/justice-emails/static/js/main.2ef7d391.chunk.js",
+    "main.js.map": "/justice-emails/static/js/main.2ef7d391.chunk.js.map",
+    "runtime-main.js": "/justice-emails/static/js/runtime-main.72a06a7b.js",
+    "runtime-main.js.map": "/justice-emails/static/js/runtime-main.72a06a7b.js.map",
+    "static/js/2.db51bbd5.chunk.js": "/justice-emails/static/js/2.db51bbd5.chunk.js",
+    "static/js/2.db51bbd5.chunk.js.map": "/justice-emails/static/js/2.db51bbd5.chunk.js.map",
+    "index.html": "/justice-emails/index.html",
+    "precache-manifest.f15137d73c6a21c36e7b809fdb87edda.js": "/justice-emails/precache-manifest.f15137d73c6a21c36e7b809fdb87edda.js",
+    "service-worker.js": "/justice-emails/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/justice-emails/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.db51bbd5.chunk.js.LICENSE.txt": "/justice-emails/static/js/2.db51bbd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72a06a7b.js",
+    "static/js/2.db51bbd5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2ef7d391.chunk.js"
+  ]
+}
